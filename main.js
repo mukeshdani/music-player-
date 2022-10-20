@@ -27,10 +27,10 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [
    {
-     name: "first song",
+     name: "Kesariya. Premium Kesariya",
      path: "1.mp3",
      img: "img7.jpg",
-     singer: "1"
+     singer: "Arijit Singh"
    },
    {
      name: "second song",
